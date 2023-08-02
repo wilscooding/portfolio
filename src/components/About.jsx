@@ -22,7 +22,7 @@ const About = () => {
           Now, as I transition into the world of software engineering, I am eager to leverage the skills and lessons acquired from my previous roles. I am excited to contribute to innovative projects, collaborate with talented individuals, and be part of a team that shares my passion for continuous improvement and delivering high-quality software solutions.
         </p>
         <p className="text-lg mt-4">
-          Let's connect and embark on this exciting journey together!
+          Let's connect and embark on this exciting journey together!!
         </p>
 			</div>
 		</div>
